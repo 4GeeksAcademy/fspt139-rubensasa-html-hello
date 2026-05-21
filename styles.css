@@ -1,0 +1,11 @@
+.stats{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.body{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    flex-direction: column;
+
+}
